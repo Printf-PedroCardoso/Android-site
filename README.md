@@ -36,19 +36,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-### 📂 Estrutura do Repositório
-
-O repositório está organizado da seguinte forma:
-
-├── index.html                  # Arquivo principal da página
-├── style.css                   # Folha de estilos
-└── pacote-projeto-d010/        # Pasta com os recursos do projeto
-  ├── imagens/                # Contém todas as imagens utilizadas
-  ├── android-site.txt        # Contém os textos utilizados
-  └── fontes/                 # Contém a fonte personalizada 'idroid'
-
----
-
 ### ✨ Funcionalidades Implementadas
 
 * **Header com Gradiente:** O cabeçalho utiliza um gradiente de cores verdes, conforme solicitado no desafio.
