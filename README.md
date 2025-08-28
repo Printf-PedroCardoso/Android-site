@@ -11,8 +11,6 @@ O site apresenta curiosidades sobre a história do mascote do sistema operaciona
 ## 🖼️ Preview do Site
 
 - Visualize a versão publicada ao vivo: [https://printf-pedrocardoso.github.io/Android-site/](https://printf-pedrocardoso.github.io/Android-site/)  
-- Imagem do layout estático:  
-  ![Preview do Site](https://raw.githubusercontent.com/gustavoguanabara/html-css/master/desafios/d010/imagens/tela-site.png)
 
 ---
 
